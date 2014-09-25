@@ -2,6 +2,9 @@
 > 'an abstraction used to model a system that contains discrete interconnected elements'
 _______________________
 
+####see complexity.wiki for my notes on Graphs
+
+_______________________
 ####Graph Algorithms
 - here's a common and useful process for applying Graph Algorithms
 	1. *Reduce* a real-world problem to an instance of a graph problem
